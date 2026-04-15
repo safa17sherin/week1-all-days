@@ -10,9 +10,6 @@ p {color: gray;}
 
 body {background: lightgoldenrodyellow;}
 
-.card {display: flex;
-flex-direction: row;}
-
 .container {
   display: flex;
   flex-direction: column;
