@@ -1,0 +1,19 @@
+nav {background: rgb(133, 14, 54);
+padding: 10px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+position: sticky;
+top: 0}
+
+.nav-links{display: flex;
+gap: 20px;}
+
+nav a {color: #fff;
+text-decoration: none;}
+
+nav h2 {color: #fff;}
+
+nav a:hover {color: yellow;}
+
+body {height: 2000px;}

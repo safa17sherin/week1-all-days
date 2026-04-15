@@ -1,0 +1,18 @@
+p {color:lightpink;}
+
+#title {color: white;
+font-size: 30px;}
+
+h2 {color: #fff;}
+
+h3 {color: #fff;}
+
+.text {color: rgb(240, 192, 208);}
+.text {align-items: center;}
+
+.background {background-color: #b71664;
+padding: 20px;}
+
+body {background-color: #a0004d;
+font-family: Arial, Helvetica, sans-serif;
+padding: 20px;}

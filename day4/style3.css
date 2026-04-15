@@ -1,0 +1,12 @@
+.card{width: 250px;
+padding: 20px;
+margin: 20px;
+background: lightgoldenrodyellow;
+position: relative;}
+
+.badge{position: absolute;
+top: 0;
+right: 0;
+background: red;
+color: #fff;
+padding: 5px 10px;}
