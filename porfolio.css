@@ -4,6 +4,10 @@ body {
   background-color: #f5f5f5;
 }
 
+body {
+  background: red;
+}
+
 h1 {
   margin-top: 50px;
 }
