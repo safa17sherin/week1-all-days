@@ -36,3 +36,7 @@ a {
   border: 1px solid black;
   border-radius: 5px;
 }
+
+a:hover{background-color: rgb(185, 184, 184);}
+a:active{background-color: rgb(77, 76, 76);}
+a:visited{color: rgb(249, 36, 36);}
